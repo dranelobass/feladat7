@@ -3,7 +3,10 @@ body
 	background-size: cover;
 	padding-left: 5em;
 	padding-right: 5em;
-	color: #B0E0E6;
+	background-image: url("./img/hatter.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
 }
 
 .divformaz
@@ -34,4 +37,21 @@ label
 {
 	padding: 12px 12px 12px 0;
 	display: inline-block;
+}
+
+#orakep {
+	margin-top: 100px !important;
+}
+
+#vonal {
+	background-color: red;
+	height: 20px;
+}
+
+.specialList {
+	text-align: center;
+	font-size: 1.2em;
+	font-style: italic;
+	color: red;
+	list-style: none;
 }
