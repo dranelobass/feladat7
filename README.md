@@ -1,1 +1,1 @@
-# i hate niggers
+# i hate gypsies
